@@ -23,20 +23,20 @@
 ### ------------------------------------------- 2019/6/15 更新 ----------------------------------------  
 ### 环境配置
 
-    Python版本为3.6
-    tensorflow版本为1.13
+    Python版本为3.7
+    tensorflow版本为1.13.2
     XAMPP版本为3.3.2
     Navicat Premium12
     
 ### 目录说明
 
-    bert文件夹是google官方下载的
+    bert文件夹是google官方下载的，
     Data文件夹存放原始数据和处理好的数据
         construct_dataset.py  生成NER_Data的数据
         construct_dataset_attribute.py  生成Sim_Data的数据
         triple_clean.py  生成三元组数据
         load_dbdata.py  将数据导入mysql db
-    ModelParams文件夹需要下载BERT的中文配置文件：chinese_L-12_H-768_A-12
+    ModelParams文件夹需要下载BERT的中文配置文件：chinese_L-12_H-768_A-12；[下载地址](https://pan.baidu.com/s/1iFoRqRtO5SKwZVqUIHalkQ)，提取码：hi63。
     Output文件夹存放输出的数据
     
     基于BERT的命名实体识别模块
