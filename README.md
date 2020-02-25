@@ -29,8 +29,7 @@
     Navicat Premium12
     
 ### 目录说明
-[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
-    bert文件夹是google官方下载的，
+    bert文件夹是google官方下载的，.[下载地址].(https://github.com/google-research/bert/)
     Data文件夹存放原始数据和处理好的数据
         construct_dataset.py  生成NER_Data的数据
         construct_dataset_attribute.py  生成Sim_Data的数据
