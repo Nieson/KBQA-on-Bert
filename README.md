@@ -29,7 +29,7 @@
     Navicat Premium12
     
 ### 目录说明
-    bert文件夹是google官方下载的，.[下载地址].(https://github.com/google-research/bert/)
+    bert文件夹是google官方下载的， [下载地址](https://github.com/google-research/bert/)
     Data文件夹存放原始数据和处理好的数据
         construct_dataset.py  生成NER_Data的数据
         construct_dataset_attribute.py  生成Sim_Data的数据
